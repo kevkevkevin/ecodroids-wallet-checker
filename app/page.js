@@ -91,7 +91,7 @@ export default function Page() {
         description={
           result === "hit"
             ? "Welcome! You can enjoy your free mint 🤖🎀"
-            : "Paste a different wallet or go pick up some TOKEN first 💎 </br> ca: 4P8QWkbRaWnhv2EVqNA2U8PqEt6QWVewbzjym3V4daos"
+            : "Paste a different wallet or go pick up some TOKEN first 💎\nca: 4P8QWkbRaWnhv2EVqNA2U8PqEt6QWVewbzjym3V4daos"
         }
       />
     </main>
